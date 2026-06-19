@@ -12,7 +12,7 @@
 
 ## Бесплатный Telegram-канал
 
-[📲 @QuantSight](https://t.me/QuantSight)
+[📲 @Quantsight58](https://t.me/Quantsight58)
 
 Ежедневные сигналы и анализ рынка.
 
