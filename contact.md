@@ -2,7 +2,7 @@
 
 ## Поддержка
 
-📧 Email: [info@quantsight.io](mailto:info@quantsight.io)
+📧 Email: [vincentzuo817@gmail.com](mailto:vincentzuo817@gmail.com)
 
 ## Социальные сети
 
@@ -12,4 +12,4 @@
 
 ## Для партнёров
 
-Сотрудничество и партнёрские программы: [info@quantsight.io](mailto:info@quantsight.io)
+Сотрудничество и партнёрские программы: [vincentzuo817@gmail.com](mailto:vincentzuo817@gmail.com)

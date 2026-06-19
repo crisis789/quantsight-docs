@@ -9,5 +9,5 @@
 5. Нажмите **★** для быстрого доступа
 
 {% hint style="info" %}
-После оплаты отправьте ваш TradingView username на [info@quantsight.io](mailto:info@quantsight.io). Доступ активируется в течение 24 часов.
+После оплаты отправьте ваш TradingView username на [vincentzuo817@gmail.com](mailto:vincentzuo817@gmail.com). Доступ активируется в течение 24 часов.
 {% endhint %}

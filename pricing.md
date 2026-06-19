@@ -20,7 +20,7 @@
 ---
 
 {% hint style="info" %}
-После оплаты отправьте ваш TradingView username на [info@quantsight.io](mailto:info@quantsight.io)
+После оплаты отправьте ваш TradingView username на [vincentzuo817@gmail.com](mailto:vincentzuo817@gmail.com)
 {% endhint %}
 
 [🔗 Перейти к оплате](https://quantsight.io)
