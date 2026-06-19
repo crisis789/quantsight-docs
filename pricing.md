@@ -19,8 +19,27 @@
 
 ---
 
+## Как оплатить
+
+### 💎 USDT (TRC20 / BEP20)
+
+Отправьте нужную сумму на адрес:
+
+```
+TLoR3z...........Ваш USDT адрес...........
+```
+
 {% hint style="info" %}
-После оплаты отправьте ваш TradingView username на [vincentzuo817@gmail.com](mailto:vincentzuo817@gmail.com)
+**Сеть:** TRC20 (комиссия ~1 USDT) или BEP20 (комиссия ~$0.1)
 {% endhint %}
 
-[🔗 Перейти к оплате](https://quantsight.io)
+### 📋 После оплаты
+
+1. Отправьте скриншот транзакции и ваш **TradingView username** на [vincentzuo817@gmail.com](mailto:vincentzuo817@gmail.com) или в Telegram [@Quantsight58](https://t.me/Quantsight58)
+2. Доступ активируется в течение **24 часов**
+
+---
+
+{% hint style="success" %}
+**Есть вопросы?** Напишите нам в Telegram: [@Quantsight58](https://t.me/Quantsight58)
+{% endhint %}
