@@ -7,7 +7,7 @@
 ## Социальные сети
 
 - 📲 Telegram: [@QuantSight](https://t.me/QuantSight)
-- 🐦 X (Twitter): [@QuantSight](https://x.com/)
+- 🐦 X (Twitter): [@crisis987](https://x.com/crisis987)
 - 🎥 YouTube: [@QuantSight](https://youtube.com/)
 
 ## Для партнёров
